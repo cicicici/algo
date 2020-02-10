@@ -1,0 +1,3 @@
+[submodule "hopper"]
+	path = hopper
+	url = https://github.com/cicicici/hopper.git
