@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.*.swp
+.vscode
+.exclude
+_work
+*.xlsx
+.idea
